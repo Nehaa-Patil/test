@@ -4,3 +4,4 @@ var object = {};
 var a = {};
 var s = {};
 var q = {};
+console.log("yoo!");
