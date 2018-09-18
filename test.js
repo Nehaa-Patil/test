@@ -5,3 +5,4 @@ var a = {};
 var s = {};
 var q = {};
 console.log("yoo!");
+console.log("yolo");
